@@ -1,0 +1,40 @@
+body{
+    background-color: #92863a;
+    font-family: 'Philosopher', sans-serif;
+}
+
+h1{
+    text-align: center;
+    font-family: 'Chau Philomene One', sans-serif;
+    font-size: 80px;
+}
+
+p{
+    text-align: center;
+}
+
+.btn{
+    background-color: #f09942;
+    border: none;
+    padding: 10px 20px;
+
+}
+.btn:hover{
+    background-color: #f0a242;
+}
+
+.btn:active{
+    background-color: #f0a242;
+}
+
+.card{
+    background-color: #f4d8a4;
+    border-radius: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.367);
+    max-width: 400px;
+    width: 100%;
+    padding: 10px;
+}
+
+
+
