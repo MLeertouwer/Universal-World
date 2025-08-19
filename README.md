@@ -26,28 +26,6 @@ Other pages: Functional but still based on the initial school assignment layout.
 
 Actively learning Bootstrap and Laravel to improve the design and functionality.
 
-# How to Run Locally
-
-Clone the repo:
-
-git clone https://github.com/MLeertouwer/Universal-World.git
-
-Install dependencies via Composer:
-
-composer install
-
-Set up your .env file with your database credentials.
-
-Run migrations and seeders if applicable:
-
-php artisan migrate --seed
-
-Start the development server:
-
-php artisan serve
-
-Open your browser and navigate to http://localhost:8000.
-
 # Future Plans
 
 Redesign remaining pages with Bootstrap for a consistent look.
